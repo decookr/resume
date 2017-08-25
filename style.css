@@ -1,1 +1,24 @@
-
+ul {
+list-style-type: square; 
+text-align: justify;
+}
+h1 {
+text-align: center;
+line-height:40%;
+}
+body {
+font-family: "Georgia"
+}
+h4 {
+line-height:0%;
+}
+h3 {
+line-height:50%;
+}
+div1 p {
+line-height:20%;
+text-align: center;
+}
+h4 {
+text-indent: 20px;
+}
