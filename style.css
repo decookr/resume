@@ -1,3 +1,10 @@
+body {
+border:4px solid black;
+background:lightgrey;
+border-radius: 25px;
+margin-left: 20px;
+padding:20px;
+}
 ul {
 list-style-type: square; 
 text-align: justify;
@@ -22,10 +29,4 @@ text-align: center;
 h4 {
 text-indent: 20px;
 }
-body {
-border:4px solid black;
-background:lightgrey;
-border-radius: 25px;
-margin-left: 20px;
-padding:20px;
-}
+
