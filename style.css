@@ -6,6 +6,10 @@ margin-left: 20px;
 padding:20px;
 max-width: 600px;
 }
+img {
+float: left;
+margin: 5px 10px 10px 10px;
+}
 ul {
 list-style-type: square; 
 text-align: justify;
@@ -30,8 +34,4 @@ color:darkslategray;
 }
 h4 {
 text-indent: 20px;
-}
-img {
-float: left;
-margin: 5px 10px 10px 10px;
 }
