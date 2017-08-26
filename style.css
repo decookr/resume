@@ -1,14 +1,10 @@
 div {
-border:4px solid black;
-background:lightgrey;
+border:4px solid #44486D;
+background:#ECF9FD;
 border-radius: 25px;
 margin-left: 20px;
 padding:20px;
 max-width: 600px;
-}
-img {
-float: left;
-margin: 5px 10px 10px 10px;
 }
 ul {
 list-style-type: square; 
@@ -23,7 +19,7 @@ font-family: "Garamond"
 }
 h4 {
 line-height:0%;
-font-style: italic;
+font-style: itali;
 }
 h3 {
 line-height:50%;
@@ -31,10 +27,14 @@ line-height:50%;
 div1 p {
 line-height:20%;
 text-align: center;
-color:darkslategray;
+color:darkslategray
 }
 h4 {
 text-indent: 20px;
+}
+img {
+    float: left;
+    margin: 5px 10px 10px 10px;
 }
 div2 p {
 text-indent: 30px;
